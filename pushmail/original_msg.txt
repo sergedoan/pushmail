@@ -1,0 +1,1197 @@
+Delivered-To: themdv7@gmail.com
+Received: by 10.176.90.218 with SMTP id x26csp55248uae;
+        Tue, 4 Apr 2017 20:51:55 -0700 (PDT)
+X-Received: by 10.237.36.210 with SMTP id u18mr28907009qtc.51.1491364315025;
+        Tue, 04 Apr 2017 20:51:55 -0700 (PDT)
+Return-Path: <themdoan@flomail.net>
+Received: from flomail.net (ec2-23-21-136-138.compute-1.amazonaws.com. [23.21.136.138])
+        by mx.google.com with ESMTP id r48si16839422qtb.9.2017.04.04.20.51.54
+        for <themdv7@gmail.com>;
+        Tue, 04 Apr 2017 20:51:54 -0700 (PDT)
+Received-SPF: pass (google.com: domain of themdoan@flomail.net designates 23.21.136.138 as permitted sender) client-ip=23.21.136.138;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of themdoan@flomail.net designates 23.21.136.138 as permitted sender) smtp.mailfrom=themdoan@flomail.net
+Received: from [127.0.0.1] (ec2-23-21-136-138.compute-1.amazonaws.com [23.21.136.138])
+	by flomail.net (Postfix) with ESMTPSA id 33C54A1B23;
+	Wed,  5 Apr 2017 03:51:54 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="----sinikael-?=_1-14913643070150.21391885202380356"
+From: themdoan@flomail.net
+To: "themdv7@gmail.com" <themdv7@gmail.com>, "themdoan2@flomail.net"
+ <themdoan2@flomail.net>, "themdoan@123flo.com" <themdoan@123flo.com>
+Subject: Fwd: =?UTF-8?Q?B=C3=A1n_ch=E1=BA=A1y=3A_D=E1=BB=A5ng_c?=
+ =?UTF-8?Q?=E1=BB=A5_=C4=91=E1=BB=B1ng_=C4=91?=
+ =?UTF-8?Q?=E1=BB=93_thu_g=E1=BB=8Dn_tr=C3=AAn_b?=
+ =?UTF-8?Q?=E1=BB=93n_r=E1=BB=ADa_ch=C3=A9n_-_Set_n?=
+ =?UTF-8?Q?=C3=B3n_v=C3=A0_y=E1=BA=BFm_c=E1=BB=B1c_?=
+ =?UTF-8?Q?k=E1=BB=B3_d=E1=BB=85_th=C6=B0=C6=A1ng_c?=
+ =?UTF-8?Q?ho_b=C3=A9?=
+Date: Wed, 05 Apr 2017 03:51:47 +0000
+Message-ID: <8430da37-1953-9953-e0e5-c3e70a42c04c@flomail.net>
+X-Mailer: nodemailer (2.7.2; +https://nodemailer.com/;
+ SMTP/2.7.2[client:2.12.0])
+MIME-Version: 1.0
+
+------sinikael-?=_1-14913643070150.21391885202380356
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------From: htmhanh2000@yahoo.comDate: =
+2017-04-05 10:26am +07:00Subject: Fwd: B=C3=A1n ch=E1=BA=A1y: D=E1=BB=A5ng =
+c=E1=BB=A5 =C4=91=E1=BB=B1ng =C4=91=E1=BB=93 thu g=E1=BB=8Dn tr=C3=AAn =
+b=E1=BB=93n r=E1=BB=ADa ch=C3=A9n - Set n=C3=B3n v=C3=A0 y=E1=BA=BFm =
+c=E1=BB=B1c k=E1=BB=B3 d=E1=BB=85 th=C6=B0=C6=A1ng cho b=C3=A9To: =
+themdoan@flomail.net
+
+From Yahoo Account
+
+
+Begin forwarded message:From: =
+San hang khuyen mai <noreply27@giatot-online.com>Subject: B=C3=A1n =
+ch=E1=BA=A1y: D=E1=BB=A5ng c=E1=BB=A5 =C4=91=E1=BB=B1ng =C4=91=E1=BB=93 thu=
+ g=E1=BB=8Dn tr=C3=AAn b=E1=BB=93n r=E1=BB=ADa ch=C3=A9n - Set n=C3=B3n =
+v=C3=A0 y=E1=BA=BFm c=E1=BB=B1c k=E1=BB=B3 d=E1=BB=85 th=C6=B0=C6=A1ng cho =
+b=C3=A9Date: April 4, 2017 at 09:03:42 GMT+7To: htmhanh2000@yahoo.=
+comReply-To: San hang khuyen mai <noreply27@giatot-online.com>
+B=E1=BB=99 60 t=C3=BAi l=C6=B0=E1=BB=9Bi l=E1=BB=8Dc r=C3=A1c b=E1=BB=93n =
+r=E1=BB=ADa c=E1=BB=B1c s=E1=BA=A1ch - M=C3=A1y xay th=E1=BB=8Bt =
+c=E1=BA=A7m tay Saha.vn - S=C4=83n h=C3=A0ng gi=C3=A1 t=E1=BB=91t54.=
+000=C4=9195.000=C4=91D=E1=BB=A5ng c=E1=BB=A5 =C4=91=E1=BB=B1ng =
+=C4=91=E1=BB=93 thu g=E1=BB=8Dn tr=C3=AAn b=E1=BB=93n r=E1=BB=ADa ch=C3=A9n=
+ Ki=E1=BB=83u d=C3=A1ng ti=E1=BB=87n =C3=ADch v=E1=BB=9Bi k=C3=ADch =
+th=C6=B0=E1=BB=9Bc nh=E1=BB=8F g=E1=BB=8Dn c=C3=B3 th=E1=BB=83 treo =
+=E1=BB=9F nhi=E1=BB=81u v=E1=BB=8B tr=C3=AD kh=C3=A1c nhau: b=E1=BB=87 =
+r=E1=BB=ADa b=C3=A1t, v=C3=B2i n=C6=B0=E1=BB=9Bc... ph=C3=B9 h=E1=BB=A3p =
+v=E1=BB=9Bi nh=C3=A0 t=E1=BA=AFm, b=E1=BA=BFp, nh=C3=A0 v=E1=BB=87 sinh. =
+=C4=90=E1=BB=B1ng =C4=91=C6=B0=E1=BB=A3c nhi=E1=BB=81u =C4=91=E1=BB=93 =
+nh=C6=B0: gi=E1=BA=BB r=E1=BB=ADa b=C3=A1t, b=C3=A0n ch=E1=BA=A3i, =
+c=E1=BB=8D xoong,... gi=C3=BAp kh=C3=B4ng gian th=C3=AAm g=E1=BB=8Dn =
+g=C3=A0ng, ng=C4=83n n=E1=BA=AFp. B=C3=AAn d=C6=B0=E1=BB=9Bi c=C3=B3 =
+nhi=E1=BB=81u l=E1=BB=97 tho=C3=A1t n=C6=B0=E1=BB=9Bc gi=E1=BB=AF cho =
+v=E1=BA=ADt d=E1=BB=A5ng lu=C3=B4n kh=C3=B4 r=C3=A1o, s=E1=BA=A1ch =
+s=E1=BA=BD. Ch=E1=BA=A5t li=E1=BB=87u nh=E1=BB=B1a m=E1=BB=81m d=E1=BA=BBo,=
+ b=E1=BB=81n =C4=91=E1=BA=B9p, d=E1=BB=85 d=C3=A0ng v=E1=BB=87 sinh. =
+K=C3=ADch th=C6=B0=E1=BB=9Bc: 14 x 10 (cm). 89.000=C4=91 180.000=C4=91Set =
+n=C3=B3n v=C3=A0 y=E1=BA=BFm c=E1=BB=B1c k=E1=BB=B3 d=E1=BB=85 =
+th=C6=B0=C6=A1ng cho b=C3=A965.000=C4=91 140.000=C4=91B=E1=BB=99 60 =
+t=C3=BAi l=C6=B0=E1=BB=9Bi l=E1=BB=8Dc r=C3=A1c b=E1=BB=93n r=E1=BB=ADa =
+c=E1=BB=B1c s=E1=BA=A1ch99.000=C4=91 200.000=C4=91M=C3=A1y xay th=E1=BB=8Bt=
+ c=E1=BA=A7m tay 126.000=C4=91 210.000=C4=91B=E1=BB=99 =C4=91=E1=BB=93 =
+d=C3=A0i m=E1=BA=B7c nh=C3=A0 ho=E1=BA=A1t h=C3=ACnh 149.000=C4=91 300.=
+000=C4=91B=E1=BB=99 5 qu=E1=BA=A7n l=C3=B3t si=C3=AAu co gi=C3=A3n =
+d=C3=A0nh cho m=E1=BA=B9 b=E1=BA=A7u89.000=C4=91 180.000=C4=91D=C3=A9p =
+nh=E1=BB=B1a =C4=91i m=C6=B0a =C4=91=C3=ADnh hoa 149.000=C4=91 300.=
+000=C4=91D=E1=BB=A5ng c=E1=BB=A5 =C4=91=E1=BB=83 dao th=E1=BB=9Bt =
+th=C3=B4ng minh189.000=C4=91 285.000=C4=91=C4=90=E1=BA=A7m ti=E1=BB=83u =
+th=C6=B0 tay ph=E1=BB=93ng 89.000=C4=91 160.000=C4=91=C3=81o c=E1=BA=B7p =
+s=E1=BB=8Dc ngang h=E1=BB=8Da ti=E1=BA=BFt ng=C3=B4i sao290.000=C4=91 690.=
+000=C4=91T=E1=BB=A7 =C4=91a n=C4=83ng 2 bu=E1=BB=93ng, 6 t=E1=BA=A7ng, 12 =
+ng=C4=83n b=E1=BB=8Dc v=E1=BA=A3i75.000=C4=91 120.000=C4=91V=C3=A1ch =
+Ng=C4=83n Ch=E1=BB=91ng V=C4=83ng D=E1=BA=A7u M=E1=BB=A1 Ti=E1=BB=87n =
+D=E1=BB=A5ng185.000=C4=91 350.000=C4=91=C4=90=E1=BA=A7m ren ti=E1=BB=83u =
+th=C6=B075.000=C4=91 160.000=C4=91M=E1=BA=AFt K=C3=ADnh Tr=E1=BA=BB Em =
+Ki=E1=BB=83u D=C3=A1ng Rayban H=C3=A0n Qu=E1=BB=91c139.000=C4=91 250.=
+000=C4=91M=E1=BB=81n b=C3=B4ng tuy=E1=BA=BFt si=C3=AAu nh=E1=BA=B999.=
+000=C4=91 190.000=C4=91D=C3=B9 =C4=91i m=C6=B0a n=E1=BB=9F hoa vi=E1=BB=81n=
+ g=E1=BB=A3n s=C3=B3ng ch=E1=BB=91ng tia UV79.000=C4=91 150.=
+000=C4=91=C4=90=E1=BA=A7m body s=E1=BB=8Dc form =C3=B4m n=C4=83ng =
+=C4=91=E1=BB=99ng 85.000=C4=91 160.000=C4=91Set =C3=A1o cho=C3=A0ng =
+ng=E1=BB=A7 ki=E1=BB=83u Kimono + =C3=A1o l=C3=B3t, qu=E1=BA=A7n chip53.=
+000=C4=91 105.000=C4=91B=E1=BB=99 3 gi=E1=BA=A5y d=C3=A1n ch=E1=BB=91ng =
+nhi=E1=BB=87t nh=C3=A0 b=E1=BA=BFp 75 x 45 cm105.000=C4=91 195.=
+000=C4=91B=E1=BB=99 6 khu=C3=B4n =C3=A9p b=C3=A1nh, c=C6=A1m, tr=E1=BB=A9ng=
+ h=C3=ACnh th=C3=BA159.000=C4=91 200.000=C4=91=C3=81o s=C6=A1 mi n=E1=BB=AF=
+ tay ng=E1=BA=AFn vi=E1=BB=81n caro c=C3=A1 t=C3=ADnh 199.000=C4=91 450.=
+000=C4=91=C3=81o cho=C3=A0ng len th=E1=BB=95 c=E1=BA=A9m135.000=C4=91 280.=
+000=C4=91H=E1=BB=99p =C4=91=E1=BB=B1ng gia v=E1=BB=8B 4 ng=C4=83n =
+lo=E1=BA=A1i m=E1=BB=9Bi109.000=C4=91 150.000=C4=91B=C3=ACnh gi=E1=BB=AF =
+nhi=E1=BB=87t inox My Bottle155.000=C4=91 310.000=C4=91=C4=90=E1=BA=A7m =
+voan xo=C3=A8 x=E1=BA=BFp ly trang nh=C3=A3 195.000=C4=91 400.=
+000=C4=91=C4=90=E1=BA=A7m m=E1=BA=B9 b=C3=A9 y=E1=BA=BFm thun ph=E1=BB=91i =
+s=E1=BB=8Dc110.000=C4=91 190.000=C4=91K=E1=BB=87 nh=E1=BB=B1a =C3=BAp =
+ch=C3=A9n, =C4=91=C4=A9a cao c=E1=BA=A5p c=C3=B3 khay tho=C3=A1t =
+n=C6=B0=E1=BB=9Bc59.000=C4=91 120.000=C4=91B=E1=BB=99 2 n=E1=BA=AFp vung =
+ch=E1=BB=91ng v=C4=83ng d=E1=BA=A7u m=E1=BB=A189.000=C4=91 140.=
+000=C4=91=C4=90=E1=BA=A7m ng=E1=BB=A7 m=C3=A0u h=E1=BB=93ng cam g=E1=BB=A3i=
+ c=E1=BA=A3m139.000=C4=91 260.000=C4=91=C3=81o l=E1=BB=87ch vai =
+th=E1=BA=AFt n=C6=A1139.000=C4=91 280.000=C4=91K=E1=BB=87 =C4=91=E1=BB=B1ng=
+ m=E1=BB=B9 ph=E1=BA=A9m 2 t=E1=BA=A7ng =C4=91a n=C4=83ng k=C3=A8m =
+g=C6=B0=C6=A1ng85.000=C4=91 170.000=C4=91B=E1=BB=99 2 d=E1=BB=A5ng =
+c=E1=BB=A5 l=E1=BB=8Dc n=C6=B0=E1=BB=9Bc t=E1=BA=A1i v=C3=B2i ti=E1=BB=87n =
+d=E1=BB=A5ng145.000=C4=91 220.000=C4=91=C3=81o len m=E1=BB=8Bn ph=E1=BB=91i=
+ ren d=E1=BB=8Bu d=C3=A0ng 109.000=C4=91 199.000=C4=91=C3=81o ng=E1=BB=B1c =
+d=C3=A1n n=C3=A2ng ng=E1=BB=B1c c=C3=B3 d=C3=A2y r=C3=BAt125.000=C4=91 200.=
+000=C4=91B=E1=BB=99 ch=C4=83n g=E1=BB=91i 2 in 1 du l=E1=BB=8Bch 3D =
+tr=C3=A1i c=C3=A2y 98.000=C4=91 180.000=C4=91H=E1=BB=99p v=E1=BA=A3i =
+=C4=91=E1=BB=B1ng =C4=91=E1=BB=93 2 ng=C4=83n h=C3=ACnh th=C3=BA xinh =
+x=E1=BA=AFn175.000=C4=91 350.000=C4=91=C4=90=E1=BA=A7m body =C4=91u=C3=B4i =
+c=C3=A1 x=E1=BA=BFp ly55.000=C4=91 110.000=C4=91Qu=E1=BA=A7n m=C3=B4ng =
+th=C3=BA d=C3=A0i cho b=C3=A973.000=C4=91 120.000=C4=91D=E1=BB=A5ng =
+c=E1=BB=A5 ch=C3=A0 r=E1=BB=ADa =C4=91a n=C4=83ng65.000=C4=91 120.=
+000=C4=91B=E1=BB=99 2 R=E1=BB=95 Silicon M=E1=BA=B7t C=C6=B0=E1=BB=9Di =
+=C4=90a N=C4=83ng169.000=C4=91 340.000=C4=91=C4=90=E1=BA=A7m =C4=91u=C3=B4i=
+ c=C3=A1 cho m=E1=BA=B9 v=C3=A0 b=C3=A9 =C4=91=C3=ADnh n=C6=A1159.000=C4=91=
+ 220.000=C4=91Set =C4=91=E1=BB=93 b=E1=BB=99 satin cao c=E1=BA=A5p164.=
+000=C4=91 310.000=C4=91K=E1=BB=87 =C4=91=E1=BB=83 xoong n=E1=BB=93i =
+ch=E1=BA=A3o, b=C3=A1t =C4=91=C4=A9a 2 t=C6=B0 th=E1=BA=BF149.000=C4=91 300=
+.000=C4=91G=E1=BB=91i cao su non h=E1=BB=8Da ti=E1=BA=BFt ng=E1=BB=99 =
+ngh=C4=A9nh d=C3=A0nh cho b=C3=A9210.000=C4=91 420.000=C4=91=C4=90=E1=BA=A7=
+m xo=C3=A8 lai ph=E1=BB=91i ren n=E1=BB=AF t=C3=ADnh 155.000=C4=91 310.=
+000=C4=91B=E1=BB=99 =C4=91=E1=BB=93 ph=E1=BB=91i s=E1=BB=8Dc 79.000=C4=91 =
+155.000=C4=91T=C3=BAi =C4=91a n=C4=83ng =C4=91=E1=BB=B1ng =C4=91=E1=BB=93 =
+v=C4=83n ph=C3=B2ng v=C3=A0 du l=E1=BB=8Bch115.000=C4=91 220.=
+000=C4=91V=C3=B2i x=E1=BB=8Bt n=C6=B0=E1=BB=9Bc t=C4=83ng =C3=A1p 8 =
+ch=E1=BA=BF =C4=91=E1=BB=99 x=E1=BB=8Bt99.000=C4=91 180.000=C4=91=C3=81o =
+kho=C3=A1c len ghi l=C3=AA nhi=E1=BB=81u ki=E1=BB=83u c=C3=A1 t=C3=ADnh135.=
+000=C4=91 350.000=C4=91=C4=90=E1=BA=A7m ph=E1=BB=91i voan h=E1=BB=9F vai59.=
+000=C4=91 100.000=C4=91B=E1=BB=99 3 mi=E1=BA=BFng m=E1=BB=9F n=E1=BA=AFp =
+b=E1=BB=93n c=E1=BA=A7u=C4=90i=E1=BB=87n tho=E1=BA=A1i: (08) 6290 8163 - =
+0123.9757.996H=E1=BB=A7y =C4=91=C4=83ng k=C3=BD nh=E1=BA=ADn email.=
+=C4=90=E1=BB=8Ba ch=E1=BB=89: 126/1 =C4=90=C6=B0=E1=BB=9Dng 100 B=C3=ACnh =
+Th=E1=BB=9Bi, Ph=C6=B0=E1=BB=9Dng 14, Qu=E1=BA=ADn 11, =
+TPHCM
+------sinikael-?=_1-14913643070150.21391885202380356
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<br><br><p>---------- Forwarded message ----------<br>From: =
+htmhanh2000@yahoo.com<br>Date: 2017-04-05 10:26am +07:00<br>Subject: Fwd: =
+B=C3=A1n ch=E1=BA=A1y: D=E1=BB=A5ng c=E1=BB=A5 =C4=91=E1=BB=B1ng =
+=C4=91=E1=BB=93 thu g=E1=BB=8Dn tr=C3=AAn b=E1=BB=93n r=E1=BB=ADa ch=C3=A9n=
+ - Set n=C3=B3n v=C3=A0 y=E1=BA=BFm c=E1=BB=B1c k=E1=BB=B3 d=E1=BB=85 =
+th=C6=B0=C6=A1ng cho b=C3=A9<br>To: themdoan@flomail.net<br></p><meta =
+http-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8"><br =
+class=3D"">
+<br class=3D""><br class=3D""><div class=3D"">
+From Yahoo Account<br class=3D""><br class=3D""><br class=3D"">
+
+</div>
+<div><br class=3D""><blockquote type=3D"cite" class=3D""><div =
+class=3D"">Begin forwarded message:</div><br class=3D"Apple-interchange-new=
+line"><div style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px;=
+ margin-left: 0px;" class=3D""><span style=3D"font-family: =
+-webkit-system-font, Helvetica Neue, Helvetica, sans-serif; color:rgba(0, 0=
+, 0, 1.0);" class=3D""><b class=3D"">From: </b></span><span =
+style=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica, =
+sans-serif;" class=3D"">San hang khuyen mai &lt;<a href=3D"mailto:noreply27=
+@giatot-online.com" class=3D"">noreply27@giatot-online.com</a>&gt;<br =
+class=3D""></span></div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px;" class=3D""><span =
+style=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica, =
+sans-serif; color:rgba(0, 0, 0, 1.0);" class=3D""><b class=3D"">Subject: =
+</b></span><span style=3D"font-family: -webkit-system-font, Helvetica Neue,=
+ Helvetica, sans-serif;" class=3D""><b class=3D"">B=C3=A1n ch=E1=BA=A1y: =
+D=E1=BB=A5ng c=E1=BB=A5 =C4=91=E1=BB=B1ng =C4=91=E1=BB=93 thu g=E1=BB=8Dn =
+tr=C3=AAn b=E1=BB=93n r=E1=BB=ADa ch=C3=A9n - Set n=C3=B3n v=C3=A0 =
+y=E1=BA=BFm c=E1=BB=B1c k=E1=BB=B3 d=E1=BB=85 th=C6=B0=C6=A1ng cho =
+b=C3=A9</b><br class=3D""></span></div><div style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px;" class=3D""><span =
+style=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica, =
+sans-serif; color:rgba(0, 0, 0, 1.0);" class=3D""><b class=3D"">Date: =
+</b></span><span style=3D"font-family: -webkit-system-font, Helvetica Neue,=
+ Helvetica, sans-serif;" class=3D"">April 4, 2017 at 09:03:42 GMT+7<br =
+class=3D""></span></div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px;" class=3D""><span =
+style=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica, =
+sans-serif; color:rgba(0, 0, 0, 1.0);" class=3D""><b class=3D"">To: =
+</b></span><span style=3D"font-family: -webkit-system-font, Helvetica Neue,=
+ Helvetica, sans-serif;" class=3D""><a href=3D"mailto:htmhanh2000@yahoo.=
+com" class=3D"">htmhanh2000@yahoo.com</a><br class=3D""></span></div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px;" class=3D""><span style=3D"font-family: =
+-webkit-system-font, Helvetica Neue, Helvetica, sans-serif; color:rgba(0, 0=
+, 0, 1.0);" class=3D""><b class=3D"">Reply-To: </b></span><span =
+style=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica, =
+sans-serif;" class=3D"">San hang khuyen mai &lt;<a href=3D"mailto:noreply27=
+@giatot-online.com" class=3D"">noreply27@giatot-online.com</a>&gt;<br =
+class=3D""></span></div><br class=3D""><div class=3D"">
+<title class=3D""></title><meta http-equiv=3D"content-type" =
+content=3D"text/html; charset=3Dutf-8"><div style=3D"margin:0;background:#D=
+FDFDF;" class=3D""><div style=3D"width:100%;background:#DFDFDF;" =
+class=3D""><span style=3D"color:#DFDFDF" class=3D"">B=E1=BB=99 60 t=C3=BAi =
+l=C6=B0=E1=BB=9Bi l=E1=BB=8Dc r=C3=A1c b=E1=BB=93n r=E1=BB=ADa c=E1=BB=B1c =
+s=E1=BA=A1ch - M=C3=A1y xay th=E1=BB=8Bt c=E1=BA=A7m tay </span><br =
+class=3D""><br class=3D""><table style=3D"border-top-left-radius: 8px; =
+border-top-right-radius: 0px; border-bottom-right-radius: 8px; =
+border-bottom-left-radius: 8px; background-color: rgb(124, 155, 41); =
+text-align: center; font-size: 14px; font-family: Arial, Helvetica, =
+sans-serif; background-position: initial initial; background-repeat: =
+initial initial;" class=3D"" cellspacing=3D"8" cellpadding=3D"0" =
+border=3D"0" width=3D"600" align=3D"center"><tbody class=3D""><tr =
+style=3D"background:#7C9B29;color:#DFEDD7" class=3D""><td colspan=3D"2" =
+style=3D"padding:7px" class=3D""><strong class=3D""><a href=3D"http://www.=
+khuyenmai-online.com/?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;ut=
+m_content=3Dtop_link&amp;utm_campaign=3Dhot-mail" style=3D"font-size:20px;t=
+ext-decoration:none;color:#fff" class=3D"">Saha.vn - S=C4=83n h=C3=A0ng =
+gi=C3=A1 t=E1=BB=91t</a></strong></td></tr><tr class=3D"wrapper"><td =
+colspan=3D"2" style=3D"border-radius:8px;background:#FFF;padding:10px 15px"=
+ class=3D""><a style=3D"text-decoration: none;" href=3D"http://track.=
+khuyenmai-online.com/track2/d6f962fdbab2bb29/1f821f0f7615ce8c5a9f074e116377=
+2f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-=
+Thu3-d0404-pos01-deal12435-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=
+=3D3144" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/resources/deals/original_images/square/12435.jpg" =
+style=3D"padding:3px;background:#FFF;" alt=3D"N=E1=BA=BFu b=E1=BA=A1n =
+kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui=
+ l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" class=3D"2439f59b-6670-4636=
+-93be-5a843fd0ddd1" border=3D"0" width=3D"450"><div style=3D"text-align: =
+center; margin-bottom: 0px; padding: 0px; margin-top: 0px; line-height: 1.=
+4;" class=3D""><span style=3D"font-size:26px;color:#4E8507;font-weight:bold=
+;padding:2px;border-radius:6px" class=3D"">54.000=C4=91</span><span =
+style=3D"font-size:18px;text-decoration:line-through" class=3D"">95.=
+000=C4=91</span></div><p style=3D"text-align:justify;margin:3px 0;" =
+class=3D""><span style=3D"color:#4E8507;font-weight:bold;" =
+class=3D"">D=E1=BB=A5ng c=E1=BB=A5 =C4=91=E1=BB=B1ng =C4=91=E1=BB=93 thu =
+g=E1=BB=8Dn tr=C3=AAn b=E1=BB=93n r=E1=BB=ADa ch=C3=A9n</span> <span =
+style=3D"font-weight:normal" class=3D"">Ki=E1=BB=83u d=C3=A1ng ti=E1=BB=87n=
+ =C3=ADch v=E1=BB=9Bi k=C3=ADch th=C6=B0=E1=BB=9Bc nh=E1=BB=8F g=E1=BB=8Dn =
+c=C3=B3 th=E1=BB=83 treo =E1=BB=9F nhi=E1=BB=81u v=E1=BB=8B tr=C3=AD =
+kh=C3=A1c nhau: b=E1=BB=87 r=E1=BB=ADa b=C3=A1t, v=C3=B2i n=C6=B0=E1=BB=9Bc=
+... ph=C3=B9 h=E1=BB=A3p v=E1=BB=9Bi nh=C3=A0 t=E1=BA=AFm, b=E1=BA=BFp, =
+nh=C3=A0 v=E1=BB=87 sinh. =C4=90=E1=BB=B1ng =C4=91=C6=B0=E1=BB=A3c =
+nhi=E1=BB=81u =C4=91=E1=BB=93 nh=C6=B0: gi=E1=BA=BB r=E1=BB=ADa b=C3=A1t, =
+b=C3=A0n ch=E1=BA=A3i, c=E1=BB=8D xoong,... gi=C3=BAp kh=C3=B4ng gian =
+th=C3=AAm g=E1=BB=8Dn g=C3=A0ng, ng=C4=83n n=E1=BA=AFp. B=C3=AAn =
+d=C6=B0=E1=BB=9Bi c=C3=B3 nhi=E1=BB=81u l=E1=BB=97 tho=C3=A1t =
+n=C6=B0=E1=BB=9Bc gi=E1=BB=AF cho v=E1=BA=ADt d=E1=BB=A5ng lu=C3=B4n =
+kh=C3=B4 r=C3=A1o, s=E1=BA=A1ch s=E1=BA=BD. Ch=E1=BA=A5t li=E1=BB=87u =
+nh=E1=BB=B1a m=E1=BB=81m d=E1=BA=BBo, b=E1=BB=81n =C4=91=E1=BA=B9p, =
+d=E1=BB=85 d=C3=A0ng v=E1=BB=87 sinh. K=C3=ADch th=C6=B0=E1=BB=9Bc: 14 x 10=
+ (cm). </span></p></a></td></tr><tr style=3D"vertical-align:top" =
+class=3D""><td style=3D"text-align:justify;background:#FFF;border-radius:6p=
+x;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/d5cbd9fd053750e4/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos02-deal12580-catemevabe&amp;utm_campaign=3Dhot-mail&amp;dm=3D314=
+4" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12580_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"bdb66eca-f52b-4ec9-b49a-0e22840a5eaf" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">89.000=C4=91</span> <span style=3D"font-size:18px;text-decoratio=
+n:line-through" class=3D"">180.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">Set n=C3=B3n v=C3=A0 y=E1=BA=BFm c=E1=BB=B1c k=E1=BB=B3 =
+d=E1=BB=85 th=C6=B0=C6=A1ng cho b=C3=A9</p></a></td><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/d11521129e57cbd1/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos03-deal12543-categiadung&amp;utm_=
+campaign=3Dhot-mail&amp;dm=3D3144" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12543_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"251c3f76-55ee-4ba0-8f74-2d3598508e35" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">65.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">140.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">B=E1=BB=99 60 t=C3=BAi =
+l=C6=B0=E1=BB=9Bi l=E1=BB=8Dc r=C3=A1c b=E1=BB=93n r=E1=BB=ADa c=E1=BB=B1c =
+s=E1=BA=A1ch</p></a></td></tr><tr style=3D"vertical-align:top" =
+class=3D""><td style=3D"text-align:justify;background:#FFF;border-radius:6p=
+x;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/28b8eaaa72453560/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos04-deal12562-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=3D31=
+44" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12562_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"71969406-704a-404b-b567-3ecf9caf5c4f" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">99.000=C4=91</span> <span style=3D"font-size:18px;text-decoratio=
+n:line-through" class=3D"">200.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">M=C3=A1y xay th=E1=BB=8Bt c=E1=BA=A7m tay </p></a></td><td=
+ style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px=
+;vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration:=
+ none;" href=3D"http://track.khuyenmai-online.com/track2/210615786f22719e/1=
+f821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dem=
+ail&amp;utm_content=3Did1637-Thu3-d0404-pos05-deal10277-catethoitrangnu&amp=
+;utm_campaign=3Dhot-mail&amp;dm=3D3144" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/10277_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"51bc0a0c-4f15-461f-8a00-25bb32db4953" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">126.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">210.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">B=E1=BB=99 =C4=91=E1=BB=93 d=C3=A0i =
+m=E1=BA=B7c nh=C3=A0 ho=E1=BA=A1t h=C3=ACnh </p></a></td></tr><tr =
+style=3D"vertical-align:top" class=3D""><td style=3D"text-align:justify;bac=
+kground:#FFF;border-radius:6px;padding:10px;vertical-align:top;" class=3D""=
+ width=3D"50%"><a style=3D"text-decoration: none;" href=3D"http://track.=
+khuyenmai-online.com/track2/9eb086cd02710eed/1f821f0f7615ce8c5a9f074e116377=
+2f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-=
+Thu3-d0404-pos06-deal12607-catemevabe&amp;utm_campaign=3Dhot-mail&amp;dm=3D=
+3144" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12607_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"03e74c71-b3ca-4c22-abb1-4e04858c462e" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">149.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">300.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">B=E1=BB=99 5 qu=E1=BA=A7n l=C3=B3t si=C3=AAu co gi=C3=A3n =
+d=C3=A0nh cho m=E1=BA=B9 b=E1=BA=A7u</p></a></td><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/050725e69cca0da1/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos07-deal12150-catethoitrangnu&amp;=
+utm_campaign=3Dhot-mail&amp;dm=3D3144" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12150_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"e25f5dfc-fa40-47a1-b426-889ee0507dfa" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">89.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">180.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">D=C3=A9p nh=E1=BB=B1a =C4=91i m=C6=B0a =
+=C4=91=C3=ADnh hoa </p></a></td></tr><tr style=3D"vertical-align:top" =
+class=3D""><td style=3D"text-align:justify;background:#FFF;border-radius:6p=
+x;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/5910eef016f0906a/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos08-deal12551-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=3D31=
+45" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12551_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"adddd09a-1c32-46b0-b228-98db6d913c2e" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">149.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">300.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">D=E1=BB=A5ng c=E1=BB=A5 =C4=91=E1=BB=83 dao th=E1=BB=9Bt =
+th=C3=B4ng minh</p></a></td><td style=3D"text-align:justify;background:#FFF=
+;border-radius:6px;padding:10px;vertical-align:top;" class=3D"" =
+width=3D"50%"><a style=3D"text-decoration: none;" href=3D"http://track.=
+khuyenmai-online.com/track2/af67c955b54a98ba/1f821f0f7615ce8c5a9f074e116377=
+2f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-=
+Thu3-d0404-pos09-deal12111-catethoitrangnu&amp;utm_campaign=3Dhot-mail&amp;=
+dm=3D3145" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12111_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"a592d3ad-ec16-4f3d-b89f-d46e641b6075" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">189.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">285.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">=C4=90=E1=BA=A7m ti=E1=BB=83u th=C6=B0 tay ph=E1=BB=93ng =
+</p></a></td></tr><tr style=3D"vertical-align:top" class=3D""><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/ad0d3623e58f0ada/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos10-deal12065-catethoitrangnu&amp;=
+utm_campaign=3Dhot-mail&amp;dm=3D3145" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12065_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"639601d8-4f1d-4794-8c67-014aa27580ed" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">89.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">160.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">=C3=81o c=E1=BA=B7p s=E1=BB=8Dc ngang =
+h=E1=BB=8Da ti=E1=BA=BFt ng=C3=B4i sao</p></a></td><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/fd11addb8d0ad076/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos11-deal12091-categiadung&amp;utm_=
+campaign=3Dhot-mail&amp;dm=3D3145" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12091_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"bb16772b-3d1d-4542-af2c-8284b453f8da" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">290.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">690.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">T=E1=BB=A7 =C4=91a n=C4=83ng 2 =
+bu=E1=BB=93ng, 6 t=E1=BA=A7ng, 12 ng=C4=83n b=E1=BB=8Dc =
+v=E1=BA=A3i</p></a></td></tr><tr style=3D"vertical-align:top" =
+class=3D""><td style=3D"text-align:justify;background:#FFF;border-radius:6p=
+x;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/f1ed1689e544be81/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos12-deal12508-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=3D31=
+45" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12508_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"cb678ddf-6c5f-4368-a75e-f39bc170a33e" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">75.000=C4=91</span> <span style=3D"font-size:18px;text-decoratio=
+n:line-through" class=3D"">120.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">V=C3=A1ch Ng=C4=83n Ch=E1=BB=91ng V=C4=83ng D=E1=BA=A7u =
+M=E1=BB=A1 Ti=E1=BB=87n D=E1=BB=A5ng</p></a></td><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/61ce06dc0984819c/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos13-deal12528-catethoitrangnu&amp;=
+utm_campaign=3Dhot-mail&amp;dm=3D3145" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12528_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"5a318674-2096-44dc-bc36-28ffff07be08" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">185.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">350.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">=C4=90=E1=BA=A7m ren ti=E1=BB=83u =
+th=C6=B0</p></a></td></tr><tr style=3D"vertical-align:top" class=3D""><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/0b993a8e18f94210/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos14-deal12610-catemevabe&amp;utm_c=
+ampaign=3Dhot-mail&amp;dm=3D3145" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12610_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"4ca2ae22-fe24-4c92-9357-159a1720827d" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">75.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">160.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">M=E1=BA=AFt K=C3=ADnh Tr=E1=BA=BB Em =
+Ki=E1=BB=83u D=C3=A1ng Rayban H=C3=A0n Qu=E1=BB=91c</p></a></td><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/a0799d75d4e92729/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos15-deal12041-categiadung&amp;utm_=
+campaign=3Dhot-mail&amp;dm=3D3145" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12041_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"1c6013b6-6b87-40b3-8a65-2a9c0e2504c5" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">139.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">250.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">M=E1=BB=81n b=C3=B4ng tuy=E1=BA=BFt =
+si=C3=AAu nh=E1=BA=B9</p></a></td></tr><tr style=3D"vertical-align:top" =
+class=3D""><td style=3D"text-align:justify;background:#FFF;border-radius:6p=
+x;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/d0bce758e265968c/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos16-deal11817-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=3D31=
+45" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/11817_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"64099e44-e97c-48e8-937c-2f5b352a4501" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">99.000=C4=91</span> <span style=3D"font-size:18px;text-decoratio=
+n:line-through" class=3D"">190.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">D=C3=B9 =C4=91i m=C6=B0a n=E1=BB=9F hoa vi=E1=BB=81n =
+g=E1=BB=A3n s=C3=B3ng ch=E1=BB=91ng tia UV</p></a></td><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/e1463a3a03264ea6/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos17-deal11976-catethoitrangnu&amp;=
+utm_campaign=3Dhot-mail&amp;dm=3D3145" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/11976_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"572e2e69-172c-4f04-bbeb-1d9fe5f4ccfd" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">79.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">150.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">=C4=90=E1=BA=A7m body s=E1=BB=8Dc form =
+=C3=B4m n=C4=83ng =C4=91=E1=BB=99ng </p></a></td></tr><tr =
+style=3D"vertical-align:top" class=3D""><td style=3D"text-align:justify;bac=
+kground:#FFF;border-radius:6px;padding:10px;vertical-align:top;" class=3D""=
+ width=3D"50%"><a style=3D"text-decoration: none;" href=3D"http://track.=
+khuyenmai-online.com/track2/1f75db4c223e9a95/1f821f0f7615ce8c5a9f074e116377=
+2f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-=
+Thu3-d0404-pos18-deal12182-catethoitrangnu&amp;utm_campaign=3Dhot-mail&amp;=
+dm=3D3145" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12182_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"2e258ef7-5bf6-4202-b280-00209cf7fe49" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">85.000=C4=91</span> <span style=3D"font-size:18px;text-decoratio=
+n:line-through" class=3D"">160.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">Set =C3=A1o cho=C3=A0ng ng=E1=BB=A7 ki=E1=BB=83u Kimono + =
+=C3=A1o l=C3=B3t, qu=E1=BA=A7n chip</p></a></td><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/ec5c5bc8f4c5bebf/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos19-deal2550-categiadung&amp;utm_c=
+ampaign=3Dhot-mail&amp;dm=3D3145" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/2550_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"7e7b47a6-499d-4c7f-8a34-961de4f1a99d" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">53.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">105.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">B=E1=BB=99 3 gi=E1=BA=A5y d=C3=A1n =
+ch=E1=BB=91ng nhi=E1=BB=87t nh=C3=A0 b=E1=BA=BFp 75 x 45 =
+cm</p></a></td></tr><tr style=3D"vertical-align:top" class=3D""><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/c976549ef7919078/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos20-deal12483-categiadung&amp;utm_=
+campaign=3Dhot-mail&amp;dm=3D3145" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12483_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"399485ab-8039-4788-ae56-1717e7d6233e" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">105.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">195.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">B=E1=BB=99 6 khu=C3=B4n =C3=A9p =
+b=C3=A1nh, c=C6=A1m, tr=E1=BB=A9ng h=C3=ACnh th=C3=BA</p></a></td><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/ae81c5546f23a63d/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos21-deal11852-catethoitrangnu&amp;=
+utm_campaign=3Dhot-mail&amp;dm=3D3145" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/11852_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"0930c623-9053-47ee-8d65-4a6b2f5ca8df" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">159.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">200.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">=C3=81o s=C6=A1 mi n=E1=BB=AF tay =
+ng=E1=BA=AFn vi=E1=BB=81n caro c=C3=A1 t=C3=ADnh </p></a></td></tr><tr =
+style=3D"vertical-align:top" class=3D""><td style=3D"text-align:justify;bac=
+kground:#FFF;border-radius:6px;padding:10px;vertical-align:top;" class=3D""=
+ width=3D"50%"><a style=3D"text-decoration: none;" href=3D"http://track.=
+khuyenmai-online.com/track2/7dce256ef5e2b5d7/1f821f0f7615ce8c5a9f074e116377=
+2f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-=
+Thu3-d0404-pos22-deal12184-catethoitrangnu&amp;utm_campaign=3Dhot-mail&amp;=
+dm=3D3145" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12184_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"ce7f8857-d90e-4cb6-9fdc-799ce18aa2fe" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">199.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">450.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">=C3=81o cho=C3=A0ng len th=E1=BB=95 =
+c=E1=BA=A9m</p></a></td><td style=3D"text-align:justify;background:#FFF;bor=
+der-radius:6px;padding:10px;vertical-align:top;" class=3D"" =
+width=3D"50%"><a style=3D"text-decoration: none;" href=3D"http://track.=
+khuyenmai-online.com/track2/fcac7cb0472ce61b/1f821f0f7615ce8c5a9f074e116377=
+2f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-=
+Thu3-d0404-pos23-deal12602-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=
+=3D3145" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12602_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"e88edef5-2844-4b22-a239-0970d73dc03c" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">135.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">280.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">H=E1=BB=99p =C4=91=E1=BB=B1ng gia v=E1=BB=8B 4 ng=C4=83n =
+lo=E1=BA=A1i m=E1=BB=9Bi</p></a></td></tr><tr style=3D"vertical-align:top" =
+class=3D""><td style=3D"text-align:justify;background:#FFF;border-radius:6p=
+x;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/a8efedd34d0417f0/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos24-deal12146-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=3D31=
+45" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12146_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"57dd2e95-704c-4ee6-822b-9eead6f1567c" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">109.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">150.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">B=C3=ACnh gi=E1=BB=AF nhi=E1=BB=87t inox My =
+Bottle</p></a></td><td style=3D"text-align:justify;background:#FFF;border-r=
+adius:6px;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/3fb750c1495fb305/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos25-deal12350-catethoitrangnu&amp;utm_campaign=3Dhot-mail&amp;dm=
+=3D3145" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12350_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"1662c880-176c-420a-a6e9-fb29731015f1" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">155.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">310.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">=C4=90=E1=BA=A7m voan xo=C3=A8 x=E1=BA=BFp ly trang =
+nh=C3=A3 </p></a></td></tr><tr style=3D"vertical-align:top" class=3D""><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/c4e2587795aeb122/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos26-deal12571-catemevabe&amp;utm_c=
+ampaign=3Dhot-mail&amp;dm=3D3145" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12571_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"2ace586c-b4ea-4c86-9e4b-cf70ade55406" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">195.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">400.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">=C4=90=E1=BA=A7m m=E1=BA=B9 b=C3=A9 =
+y=E1=BA=BFm thun ph=E1=BB=91i s=E1=BB=8Dc</p></a></td><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/e1a64a4f0f85b988/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos27-deal12359-categiadung&amp;utm_=
+campaign=3Dhot-mail&amp;dm=3D3145" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12359_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"11e2de91-c728-424a-a79c-a3a196bcc8c9" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">110.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">190.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">K=E1=BB=87 nh=E1=BB=B1a =C3=BAp =
+ch=C3=A9n, =C4=91=C4=A9a cao c=E1=BA=A5p c=C3=B3 khay tho=C3=A1t =
+n=C6=B0=E1=BB=9Bc</p></a></td></tr><tr style=3D"vertical-align:top" =
+class=3D""><td style=3D"text-align:justify;background:#FFF;border-radius:6p=
+x;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/64ce2428bf813a49/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos28-deal7870-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=3D314=
+6" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/7870_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"fd6d38ba-5a09-474d-9c45-97cee70d107c" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">59.000=C4=91</span> <span style=3D"font-size:18px;text-decoratio=
+n:line-through" class=3D"">120.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">B=E1=BB=99 2 n=E1=BA=AFp vung ch=E1=BB=91ng v=C4=83ng =
+d=E1=BA=A7u m=E1=BB=A1</p></a></td><td style=3D"text-align:justify;backgrou=
+nd:#FFF;border-radius:6px;padding:10px;vertical-align:top;" class=3D"" =
+width=3D"50%"><a style=3D"text-decoration: none;" href=3D"http://track.=
+khuyenmai-online.com/track2/0d50a29a1a421e94/1f821f0f7615ce8c5a9f074e116377=
+2f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-=
+Thu3-d0404-pos29-deal8044-catethoitrangnu&amp;utm_campaign=3Dhot-mail&amp;d=
+m=3D3146" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/8044_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"bea7ac49-d9d5-4c29-8c4b-7e643882f024" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">89.000=C4=91</span> <span style=3D"font-size:18px;text-decoratio=
+n:line-through" class=3D"">140.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">=C4=90=E1=BA=A7m ng=E1=BB=A7 m=C3=A0u h=E1=BB=93ng cam =
+g=E1=BB=A3i c=E1=BA=A3m</p></a></td></tr><tr style=3D"vertical-align:top" =
+class=3D""><td style=3D"text-align:justify;background:#FFF;border-radius:6p=
+x;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/f45e2fa5d97484ff/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos30-deal12163-catethoitrangnu&amp;utm_campaign=3Dhot-mail&amp;dm=
+=3D3146" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12163_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"60677b15-4fe4-4063-b232-8d6d106b647c" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">139.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">260.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">=C3=81o l=E1=BB=87ch vai th=E1=BA=AFt =
+n=C6=A1</p></a></td><td style=3D"text-align:justify;background:#FFF;border-=
+radius:6px;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/f4c38a041459b3e3/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos31-deal12587-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=3D31=
+46" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12587_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"ccc13949-c9f2-4b89-be0c-2af1b3796f47" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">139.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">280.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">K=E1=BB=87 =C4=91=E1=BB=B1ng m=E1=BB=B9 ph=E1=BA=A9m 2 =
+t=E1=BA=A7ng =C4=91a n=C4=83ng k=C3=A8m g=C6=B0=C6=A1ng</p></a></td></tr><t=
+r style=3D"vertical-align:top" class=3D""><td style=3D"text-align:justify;b=
+ackground:#FFF;border-radius:6px;padding:10px;vertical-align:top;" =
+class=3D"" width=3D"50%"><a style=3D"text-decoration: none;" =
+href=3D"http://track.khuyenmai-online.com/track2/d8c8d5ec660f619d/1f821f0f7=
+615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;=
+utm_content=3Did1637-Thu3-d0404-pos32-deal12230-categiadung&amp;utm_campaig=
+n=3Dhot-mail&amp;dm=3D3146" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12230_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"f949007f-aaf2-48dd-8d11-adb4ed99645d" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">85.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">170.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">B=E1=BB=99 2 d=E1=BB=A5ng c=E1=BB=A5 =
+l=E1=BB=8Dc n=C6=B0=E1=BB=9Bc t=E1=BA=A1i v=C3=B2i ti=E1=BB=87n =
+d=E1=BB=A5ng</p></a></td><td style=3D"text-align:justify;background:#FFF;bo=
+rder-radius:6px;padding:10px;vertical-align:top;" class=3D"" =
+width=3D"50%"><a style=3D"text-decoration: none;" href=3D"http://track.=
+khuyenmai-online.com/track2/e078312eec14b33e/1f821f0f7615ce8c5a9f074e116377=
+2f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-=
+Thu3-d0404-pos33-deal12327-catethoitrangnu&amp;utm_campaign=3Dhot-mail&amp;=
+dm=3D3146" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12327_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"03ebd175-e22f-4ee8-90d8-dcdb42e5d87a" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">145.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">220.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">=C3=81o len m=E1=BB=8Bn ph=E1=BB=91i ren d=E1=BB=8Bu =
+d=C3=A0ng </p></a></td></tr><tr style=3D"vertical-align:top" class=3D""><td=
+ style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px=
+;vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration:=
+ none;" href=3D"http://track.khuyenmai-online.com/track2/990914a646ca9279/1=
+f821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dem=
+ail&amp;utm_content=3Did1637-Thu3-d0404-pos34-deal11684-catethoitrangnu&amp=
+;utm_campaign=3Dhot-mail&amp;dm=3D3146" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/11684_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"0c5640f5-fab4-46a4-a372-e711127df2f1" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">109.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">199.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">=C3=81o ng=E1=BB=B1c d=C3=A1n n=C3=A2ng=
+ ng=E1=BB=B1c c=C3=B3 d=C3=A2y r=C3=BAt</p></a></td><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/f2a61134fae8bd3c/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos35-deal12472-categiadung&amp;utm_=
+campaign=3Dhot-mail&amp;dm=3D3146" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12472_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"732056f4-1c24-46d2-9d15-ba494bbb7062" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">125.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">200.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">B=E1=BB=99 ch=C4=83n g=E1=BB=91i 2 in 1=
+ du l=E1=BB=8Bch 3D tr=C3=A1i c=C3=A2y </p></a></td></tr><tr =
+style=3D"vertical-align:top" class=3D""><td style=3D"text-align:justify;bac=
+kground:#FFF;border-radius:6px;padding:10px;vertical-align:top;" class=3D""=
+ width=3D"50%"><a style=3D"text-decoration: none;" href=3D"http://track.=
+khuyenmai-online.com/track2/cdc2686090ef31ed/1f821f0f7615ce8c5a9f074e116377=
+2f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-=
+Thu3-d0404-pos36-deal12510-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=
+=3D3146" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12510_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"7de90bb1-7983-4ea0-a3a4-42632808e52b" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">98.000=C4=91</span> <span style=3D"font-size:18px;text-decoratio=
+n:line-through" class=3D"">180.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">H=E1=BB=99p v=E1=BA=A3i =C4=91=E1=BB=B1ng =C4=91=E1=BB=93 =
+2 ng=C4=83n h=C3=ACnh th=C3=BA xinh x=E1=BA=AFn</p></a></td><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/3e16d4fd96cb6028/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos37-deal11583-catethoitrangnu&amp;=
+utm_campaign=3Dhot-mail&amp;dm=3D3146" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/11583_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"99da2e3a-2978-415e-bb74-e8a4e1c0ddda" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">175.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">350.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">=C4=90=E1=BA=A7m body =C4=91u=C3=B4i =
+c=C3=A1 x=E1=BA=BFp ly</p></a></td></tr><tr style=3D"vertical-align:top" =
+class=3D""><td style=3D"text-align:justify;background:#FFF;border-radius:6p=
+x;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/f5361db9681d78b7/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos38-deal2529-catemevabe&amp;utm_campaign=3Dhot-mail&amp;dm=3D3146=
+" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/2529_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"b4b12a4e-9d64-4f7a-b9a4-098a03f037d5" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">55.000=C4=91</span> <span style=3D"font-size:18px;text-decoratio=
+n:line-through" class=3D"">110.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">Qu=E1=BA=A7n m=C3=B4ng th=C3=BA d=C3=A0i cho =
+b=C3=A9</p></a></td><td style=3D"text-align:justify;background:#FFF;border-=
+radius:6px;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/9614d6bd31f4cefc/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos39-deal12560-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=3D31=
+46" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12560_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"a285b5c6-e5ca-445d-bb43-eab1f1cefb1b" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">73.000=C4=91</span> <span style=3D"font-size:18px;text-decoratio=
+n:line-through" class=3D"">120.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">D=E1=BB=A5ng c=E1=BB=A5 ch=C3=A0 r=E1=BB=ADa =C4=91a =
+n=C4=83ng</p></a></td></tr><tr style=3D"vertical-align:top" class=3D""><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/88f4008f3b6ad125/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos40-deal12251-categiadung&amp;utm_=
+campaign=3Dhot-mail&amp;dm=3D3146" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12251_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"ef3313ce-0ea8-46e0-b636-d87a5f9758d0" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">65.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">120.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">B=E1=BB=99 2 R=E1=BB=95 Silicon =
+M=E1=BA=B7t C=C6=B0=E1=BB=9Di =C4=90a N=C4=83ng</p></a></td><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/2fd33a412b1d0e1e/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos41-deal9347-catemevabe&amp;utm_ca=
+mpaign=3Dhot-mail&amp;dm=3D3146" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/9347_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"118fa95f-b468-46a3-abdc-2d0dc1ca0e54" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">169.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">340.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">=C4=90=E1=BA=A7m =C4=91u=C3=B4i c=C3=A1=
+ cho m=E1=BA=B9 v=C3=A0 b=C3=A9 =C4=91=C3=ADnh n=C6=A1</p></a></td></tr><tr=
+ style=3D"vertical-align:top" class=3D""><td style=3D"text-align:justify;ba=
+ckground:#FFF;border-radius:6px;padding:10px;vertical-align:top;" =
+class=3D"" width=3D"50%"><a style=3D"text-decoration: none;" =
+href=3D"http://track.khuyenmai-online.com/track2/786c2f784f07973a/1f821f0f7=
+615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;=
+utm_content=3Did1637-Thu3-d0404-pos42-deal12652-catethoitrangnu&amp;utm_cam=
+paign=3Dhot-mail&amp;dm=3D3146" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12652_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"ba2a702d-a68a-4c30-a9e0-27f93727b557" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">159.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">220.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">Set =C4=91=E1=BB=93 b=E1=BB=99 satin =
+cao c=E1=BA=A5p</p></a></td><td style=3D"text-align:justify;background:#FFF=
+;border-radius:6px;padding:10px;vertical-align:top;" class=3D"" =
+width=3D"50%"><a style=3D"text-decoration: none;" href=3D"http://track.=
+khuyenmai-online.com/track2/a2ddd9c06a2bdda0/1f821f0f7615ce8c5a9f074e116377=
+2f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-=
+Thu3-d0404-pos43-deal12229-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=
+=3D3146" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12229_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"895c2f43-99e6-4819-bea8-6e3d2fba67c0" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">164.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">310.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">K=E1=BB=87 =C4=91=E1=BB=83 xoong n=E1=BB=93i ch=E1=BA=A3o,=
+ b=C3=A1t =C4=91=C4=A9a 2 t=C6=B0 th=E1=BA=BF</p></a></td></tr><tr =
+style=3D"vertical-align:top" class=3D""><td style=3D"text-align:justify;bac=
+kground:#FFF;border-radius:6px;padding:10px;vertical-align:top;" class=3D""=
+ width=3D"50%"><a style=3D"text-decoration: none;" href=3D"http://track.=
+khuyenmai-online.com/track2/218d17a43238aeef/1f821f0f7615ce8c5a9f074e116377=
+2f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-=
+Thu3-d0404-pos44-deal12662-catemevabe&amp;utm_campaign=3Dhot-mail&amp;dm=3D=
+3146" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12662_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"de92e39c-6983-433f-8536-b437b1d83883" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">149.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">300.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">G=E1=BB=91i cao su non h=E1=BB=8Da ti=E1=BA=BFt =
+ng=E1=BB=99 ngh=C4=A9nh d=C3=A0nh cho b=C3=A9</p></a></td><td =
+style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px;=
+vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration: =
+none;" href=3D"http://track.khuyenmai-online.com/track2/f080bfaa12d17c2f/1f=
+821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dema=
+il&amp;utm_content=3Did1637-Thu3-d0404-pos45-deal12066-catethoitrangnu&amp;=
+utm_campaign=3Dhot-mail&amp;dm=3D3146" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12066_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"17779f75-e6ad-4866-ac40-a4e57287b7dc" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">210.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">420.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">=C4=90=E1=BA=A7m xo=C3=A8 lai =
+ph=E1=BB=91i ren n=E1=BB=AF t=C3=ADnh </p></a></td></tr><tr =
+style=3D"vertical-align:top" class=3D""><td style=3D"text-align:justify;bac=
+kground:#FFF;border-radius:6px;padding:10px;vertical-align:top;" class=3D""=
+ width=3D"50%"><a style=3D"text-decoration: none;" href=3D"http://track.=
+khuyenmai-online.com/track2/f0683ba7c3f947e6/1f821f0f7615ce8c5a9f074e116377=
+2f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-=
+Thu3-d0404-pos46-deal10048-catethoitrangnu&amp;utm_campaign=3Dhot-mail&amp;=
+dm=3D3146" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/10048_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"cefe302d-2eae-45ce-99b9-b709695d8e4e" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">155.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">310.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">B=E1=BB=99 =C4=91=E1=BB=93 ph=E1=BB=91i s=E1=BB=8Dc =
+</p></a></td><td style=3D"text-align:justify;background:#FFF;border-radius:=
+6px;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/8cde8cf8b7915c90/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos47-deal12074-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=3D31=
+46" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12074_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"23d9bd7e-ba3a-4038-a274-d21ebea6928c" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">79.000=C4=91</span> <span style=3D"font-size:18px;text-decoratio=
+n:line-through" class=3D"">155.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">T=C3=BAi =C4=91a n=C4=83ng =C4=91=E1=BB=B1ng =
+=C4=91=E1=BB=93 v=C4=83n ph=C3=B2ng v=C3=A0 du l=E1=BB=8Bch</p></a></td></t=
+r><tr style=3D"vertical-align:top" class=3D""><td style=3D"text-align:justi=
+fy;background:#FFF;border-radius:6px;padding:10px;vertical-align:top;" =
+class=3D"" width=3D"50%"><a style=3D"text-decoration: none;" =
+href=3D"http://track.khuyenmai-online.com/track2/861c06c4a1133f1e/1f821f0f7=
+615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;=
+utm_content=3Did1637-Thu3-d0404-pos48-deal12227-categiadung&amp;utm_campaig=
+n=3Dhot-mail&amp;dm=3D3146" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12227_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"27fd5b16-4a16-4c3c-826f-c5294fdf8d54" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">115.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">220.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">V=C3=B2i x=E1=BB=8Bt n=C6=B0=E1=BB=9Bc =
+t=C4=83ng =C3=A1p 8 ch=E1=BA=BF =C4=91=E1=BB=99 x=E1=BB=8Bt</p></a></td><td=
+ style=3D"text-align:justify;background:#FFF;border-radius:6px;padding:10px=
+;vertical-align:top;" class=3D"" width=3D"50%"><a style=3D"text-decoration:=
+ none;" href=3D"http://track.khuyenmai-online.com/track2/de87bb6b943f86b2/1=
+f821f0f7615ce8c5a9f074e1163772f?utm_source=3Dnewsletter&amp;utm_medium=3Dem=
+ail&amp;utm_content=3Did1637-Thu3-d0404-pos49-deal12514-catethoitrangnu&amp=
+;utm_campaign=3Dhot-mail&amp;dm=3D3146" class=3D""><img src=3D"http://www.=
+khuyenmai-online.com/Resources/deals/new_size/12514_315_315.jpg" =
+alt=3D"N=E1=BA=BFu b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =
+=E1=BA=A3nh s=E1=BA=A3n ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =
+=C4=91=C3=A2y" class=3D"26142b67-61b7-4523-8b2b-f7141459a422" border=3D"0" =
+width=3D"268" height=3D"268"><p style=3D"margin:8px 0px =
+0px;font-size:14px;text-align:center;" class=3D""><span =
+style=3D"font-size:20px;background-color:#FEBA2D;color:#623313;font-weight:=
+bold;padding:2px 8px;border-radius:6px" class=3D"">99.000=C4=91</span> =
+<span style=3D"font-size:18px;text-decoration:line-through" class=3D"">180.=
+000=C4=91</span></p><p style=3D"font-size:16px;text-align:center;line-heigh=
+t:1.4;margin:5px 0 3px;" class=3D"">=C3=81o kho=C3=A1c len ghi l=C3=AA =
+nhi=E1=BB=81u ki=E1=BB=83u c=C3=A1 t=C3=ADnh</p></a></td></tr><tr =
+style=3D"vertical-align:top" class=3D""><td style=3D"text-align:justify;bac=
+kground:#FFF;border-radius:6px;padding:10px;vertical-align:top;" class=3D""=
+ width=3D"50%"><a style=3D"text-decoration: none;" href=3D"http://track.=
+khuyenmai-online.com/track2/137cd92b34769854/1f821f0f7615ce8c5a9f074e116377=
+2f?utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-=
+Thu3-d0404-pos50-deal12456-catethoitrangnu&amp;utm_campaign=3Dhot-mail&amp;=
+dm=3D3147" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/12456_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"dcc11d81-bdd1-4312-bdee-91fb8513b713" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">135.000=C4=91</span> <span style=3D"font-size:18px;text-decorati=
+on:line-through" class=3D"">350.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">=C4=90=E1=BA=A7m ph=E1=BB=91i voan h=E1=BB=9F =
+vai</p></a></td><td style=3D"text-align:justify;background:#FFF;border-radi=
+us:6px;padding:10px;vertical-align:top;" class=3D"" width=3D"50%"><a =
+style=3D"text-decoration: none;" href=3D"http://track.khuyenmai-online.=
+com/track2/d040548eb3c00123/1f821f0f7615ce8c5a9f074e1163772f?=
+utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_content=3Did1637-Thu=
+3-d0404-pos51-deal11139-categiadung&amp;utm_campaign=3Dhot-mail&amp;dm=3D31=
+47" class=3D""><img src=3D"http://www.khuyenmai-online.=
+com/Resources/deals/new_size/11139_315_315.jpg" alt=3D"N=E1=BA=BFu =
+b=E1=BA=A1n kh=C3=B4ng th=E1=BA=A5y h=C3=ACnh =E1=BA=A3nh s=E1=BA=A3n =
+ph=E1=BA=A9m, vui l=C3=B2ng nh=E1=BA=A5n v=C3=A0o =C4=91=C3=A2y" =
+class=3D"a6dc8ccd-68a4-4cae-a28f-e3cffc211405" border=3D"0" width=3D"268" =
+height=3D"268"><p style=3D"margin:8px 0px 0px;font-size:14px;text-align:cen=
+ter;" class=3D""><span style=3D"font-size:20px;background-color:#FEBA2D;col=
+or:#623313;font-weight:bold;padding:2px 8px;border-radius:6px" =
+class=3D"">59.000=C4=91</span> <span style=3D"font-size:18px;text-decoratio=
+n:line-through" class=3D"">100.000=C4=91</span></p><p =
+style=3D"font-size:16px;text-align:center;line-height:1.4;margin:5px 0 =
+3px;" class=3D"">B=E1=BB=99 3 mi=E1=BA=BFng m=E1=BB=9F n=E1=BA=AFp =
+b=E1=BB=93n c=E1=BA=A7u</p></a></td></tr><tr class=3D""><td colspan=3D"2" =
+style=3D"border-radius:6px;background:#fff" class=3D""><p =
+style=3D"line-height: 1.5" class=3D"">=C4=90i=E1=BB=87n tho=E1=BA=A1i: =
+<strong class=3D"">(08) 6290 8163 - 0123.9757.996</strong><br class=3D""><a=
+ id=3D"bottom_unsubscribe" href=3D"http://www.khuyenmai-online.=
+com/huy-dang-ky-mail/1f821f0f7615ce8c5a9f074e1163772f" =
+class=3D"">H=E1=BB=A7y =C4=91=C4=83ng k=C3=BD nh=E1=BA=ADn email</a>.<br =
+class=3D"">=C4=90=E1=BB=8Ba ch=E1=BB=89: 126/1 =C4=90=C6=B0=E1=BB=9Dng 100 =
+B=C3=ACnh Th=E1=BB=9Bi, Ph=C6=B0=E1=BB=9Dng 14, Qu=E1=BA=ADn 11, TPHCM<br =
+class=3D""><br class=3D""></p></td></tr></tbody></table></div><img =
+src=3D"http://track.khuyenmai-online.com/views/1f821f0f7615ce8c5a9f074e1163=
+772f" class=3D"8ffff9bb-b4c9-4458-9d12-f84fd0b1b574" width=3D"0" =
+height=3D"0"></div></div></blockquote></div><br =
+class=3D"">
+------sinikael-?=_1-14913643070150.21391885202380356--
